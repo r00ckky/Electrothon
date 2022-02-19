@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "829505759702",
+    "firebase_url": "https://dclutter-32379-default-rtdb.firebaseio.com",
+    "project_id": "dclutter-32379",
+    "storage_bucket": "dclutter-32379.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829505759702:android:478fade4a63460f9481c77",
+        "android_client_info": {
+          "package_name": "Kaleo.Chat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829505759702-1aql87it0kb19peo6nr0bgcdt9qjv0ho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3zpibmzANbqMEhLmVpJID-ugZ8kABr6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829505759702-1aql87it0kb19peo6nr0bgcdt9qjv0ho.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "829505759702-fqnm3e0c2lunbf397fkcd7319erqr48j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Kaleo.Chat.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829505759702:android:413d53b35d82be45481c77",
+        "android_client_info": {
+          "package_name": "com.flutterflow.dclutterramit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829505759702-gthv7n2rukf9okn4pd94ds1ej54pijae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.dclutterramit",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "829505759702-1aql87it0kb19peo6nr0bgcdt9qjv0ho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3zpibmzANbqMEhLmVpJID-ugZ8kABr6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829505759702-1aql87it0kb19peo6nr0bgcdt9qjv0ho.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "829505759702-fqnm3e0c2lunbf397fkcd7319erqr48j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Kaleo.Chat.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
