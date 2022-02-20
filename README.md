@@ -7,7 +7,8 @@ How will one earn these Clutter coins?
 To earn these clutter coins we have two features in our application:
 1.E-WASTE
 2.E-RECEIPT
-
+<br>
+<img src="https://drive.google.com/file/d/1XWheGEcmdse2Ol8drO4oJ09p-y6H77va/view?usp=sharing" />
 When one clicks on E waste, they will be directed to page where they can either track the order or send request for pick-up of E Waste.
 
 When one clicks on “MAKE REQUEST” the certified e-waste disposal company that is nearest to your location is sent request, for pickup and when one clicks on “TRACK REQUEST” you can see how much time is left till your waste is picked up, or if the waste that was picked up has reached the company or not.
