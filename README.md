@@ -5,6 +5,7 @@ Why would you sell your e waste to us? Is question that comes up in one’s mind
 Well to answer that we introduce to you Clutter coin. Just like in a arcade gaming shop where you get tickets for winning games and exchange the said tickets for various goodies, our application allows you to exchange the above mentioned Clutter coins for various goodies. 
 How will one earn these Clutter coins?
 To earn these clutter coins we have two features in our application:
+</br>
 1.E-WASTE
 <br>
 2.E-RECEIPT
